@@ -45,14 +45,14 @@ That's it for me :p
 | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust"  alt="Rust" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS"  alt="TS" width="48" height="48"/>
 
 ### Frameworks
-| React | Angular | OpenGL | Playwright |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL"  alt="OpenGL" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="PR"  alt="PR" width="48" height="48"/> |
+| React      | Angular    | OpenGL     | Playwright | Bevy       |
+|------------|------------|------------|------------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular"  alt="Angular" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL"  alt="OpenGL" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="PR"  alt="PR" width="48" height="48"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/bevyengine/bevyengine-original.svg" title="Bevy"  alt="PR" width="48" height="48"/> |
 
 ### OS
-| Arch | Debian | Ubuntu | Fedora |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch"  alt="Arch" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Deb"  alt="Deb" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora"  alt="Fedora" width="48" height="48"/> |
+| Arch     | Debian   | Ubuntu   | Fedora   | Windows  |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch"  alt="Arch" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Deb"  alt="Deb" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora"  alt="Fedora" width="48" height="48"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows"  alt="Fedora" width="48" height="48"/> |
 </div>
 
 ---
