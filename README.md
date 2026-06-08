@@ -22,7 +22,8 @@ You can see what I can do below.
 
 ---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/exepta?cardType=level&theme=github&fontFamily=&preferLogin=false&Background=04051B&Text=5C5E6F&Title=6024DD&Border=6024DD&Ring=6024DD)](https://git.io/awesome-stats-card)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Exepta&layout=donut&theme=material-palenight)](https://github.com/Exepta/github-readme-stats)
+![Exepta's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Exepta&show_icons=true&theme=material-palenight)
 
 ---
 
@@ -54,3 +55,9 @@ You can see what I can do below.
 </div>
 
 ---
+
+### Bevy IDEA Plugin
+
+[![JetBrains Marketplace](https://img.shields.io/badge/JetBrains%20Marketplace-Install-blue?logo=jetbrains)](https://plugins.jetbrains.com/plugin/32154)
+
+> This is my plugin to better support the UI library I wrote in RustRover or Intelllij. You can also use it to create Bevy apps via Project Winzard. There you can then install all assets from the bevy assets page: https://bevy.org/assets/.
